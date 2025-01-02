@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.26)  25 DEC 2024 20:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.26)  2 JAN 2025 16:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -971,16 +971,22 @@ Underfull \vbox (badness 2726) has occurred while \output is active []
 
 
 ]
-[30] [31])
+Underfull \vbox (badness 4660) has occurred while \output is active []
+
+ [30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+[32])
 \openout2 = `Arrival/Arrival.aux'.
 
- (./Arrival/Arrival.tex [32
-
-
-
-]
+ (./Arrival/Arrival.tex
 Chapter 8.
-[33])
+[33
+
+
+
+])
 \openout2 = `front-back-matter/abouttheauthor.aux'.
 
  (./front-back-matter/abouttheauthor.tex) [34
@@ -1010,13 +1016,13 @@ Here is how much of TeX's memory you used:
  27041 multiletter control sequences out of 15000+600000
  572789 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,13n,48p,844b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,13n,48p,844b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
 020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-
 dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on GravitysChild.pdf (47 pages, 2971789 bytes).
+Output written on GravitysChild.pdf (47 pages, 2973782 bytes).
 PDF statistics:
  298 PDF objects out of 1000 (max. 8388607)
  240 compressed objects within 3 object streams

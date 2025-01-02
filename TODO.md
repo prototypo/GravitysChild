@@ -6,7 +6,32 @@ Possibly include a MacGuffin, possibly a genetically engineered monkey-like pet 
 
 The much-loved pet should be simultaneously guilty of spying, and causing the protagonist harm, but completely blameless. It should be an unwitting pawn in a game it cannot understand.
 
-## Things to Include
+## Things to Maybe Include
+
+The average age of a spacecraft in low Earth orbit may be measured in weeks, months or at best a few years. The tenuous Thermosphere is nearly half oxygen and half helium at those altitudes with sensible amounts of hydrogen thrown in for good measure. Oxygen and helium atoms slam into spacecraft at speeds of kilometers per second, imparting momentum even with their tiny masses. It is the oxygen, four times heavier than helium, that is responsible for most of the impact. Their drag slowly pulls LEO spacecraft to a fiery end.
+
+\begin{itemize}
+\item{The tiny NEO is diverted into a horseshoe orbit around Earth by the three satellites helping Albatenius.}
+\item{The asteroid throws Albatenius and two others out of Earth orbit toward the asteroid belt.}
+\end{itemize}
+
+Yaogan 72-01F and Hotbird 16B merge to create a weapon with power, computation, steering, and plastic explosive. It will be used to divert a larger asteroid.
+
+For the explosive, use properties similar to C4 (from Wikipedia):
+
+When detonated, C-4 rapidly decomposes to release nitrogen, water and carbon oxides as well as other gases.[8] The detonation proceeds at an explosive velocity of 8,092 m/s (26,550 ft/s).
+
+Impact test with 2 kilogram weight / PA APP (% TNT)	>100
+Impact test with 2 kilogram weight / BM APP (% TNT)	?
+Pendulum friction test, percent explosions	0
+Rifle bullet test, percent explosions	20
+Explosion temperature test, Celsius	263 to 290
+Minimum detonating charge, gram of lead azide	0.2
+Brisance measured by Sand test (% TNT)	116
+Brisance measured by plate dent test	115 to 130
+Rate of detonation at density	1.59
+Rate of detonation meters per second	8000
+Ballistic pendulum test percent	130
 
 ### Later Chapters
 
