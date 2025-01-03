@@ -8,4 +8,7 @@
 \contentsline {chapter}{\numberline {6}Eliza}{23}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Perturbation}{29}{chapter.7}%
 \contentsline {chapter}{\numberline {8}Arrival}{33}{chapter.8}%
-\contentsline {chapter}{About the Author}{34}{section*.4}%
+\contentsline {chapter}{\numberline {9}Horseshoe}{35}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Tute}{37}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Second Rock}{39}{chapter.11}%
+\contentsline {chapter}{About the Author}{40}{section*.4}%
