@@ -11,4 +11,4 @@
 \contentsline {chapter}{\numberline {9}Horseshoe}{35}{chapter.9}%
 \contentsline {chapter}{\numberline {10}Tute}{37}{chapter.10}%
 \contentsline {chapter}{\numberline {11}Second Rock}{39}{chapter.11}%
-\contentsline {chapter}{About the Author}{40}{section*.4}%
+\contentsline {chapter}{About the Author}{40}{section*.6}%

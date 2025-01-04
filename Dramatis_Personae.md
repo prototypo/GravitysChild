@@ -18,15 +18,15 @@ Elder Mattias, Aapo's neighbourhood priest.
 
 ## Aapo's fellow students
 
-Elisa, a natural leader. She is three years older than Aapo.
+Elisa (F), a natural leader. She is three years older than Aapo.
 
-Alanna, a highly intuitive thinker.
+Alanna (F), a highly intuitive thinker.
 
-Alejandro, an aggressive smartarse.
+Alejandro (M), an aggressive smartarse.
 
-Sergio, a quiet boy, friends with Aapo. Good at math, but not as good as Aapo.
+Sergio (M), a quiet boy, friends with Aapo. Good at math, but not as good as Aapo.
 
-TODO
+Michael (M, godlike), Fang (F, virtuous), Qiang (A, better).
 
 ## Spacecraft:
 

@@ -6,6 +6,7 @@
 * __Coadjutors__: Assistants to pulpiteers. They wear taupe robes and shave their heads.
 *__Curveball__: A computer game; one of several used by the Eliza to identify promising individuals.
 * __Eliza__: The church that became the government. Founded in North America by Garbi Elizondo.
+* __Eliza Central__ or __Central__: The headquarters of Eliza.
 * __Conventicle__: A secret gathering of those working outside of and possibly contrary to the Eliza.
 * __Dunbar__: A lifetime group of no more than 150 people, living in a single building or close neighbourhood.
 * __Ecclesical__: The top priest of a sanctuary. They wear purple robes and have hair.
