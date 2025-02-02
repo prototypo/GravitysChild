@@ -8,7 +8,7 @@
 * __Eliza__: The church that became the government. Founded in North America by Garbi Elizondo.
 * __Eliza Central__ or __Central__: The headquarters of Eliza.
 * __Conventicle__: A secret gathering of those working outside of and possibly contrary to the Eliza.
-* __Dunbar__: A lifetime group of no more than 150 people, living in a single building or close neighbourhood.
+* __Dunbar__: A lifetime group of no more than 150 people, living in a single building or close neighbourhood. Named after the British anthropologist Robin Dunbar.
 * __Ecclesical__: The top priest of a sanctuary. They wear purple robes and have hair.
 * __Embed__: A computer implanted in a body, or part thereof. They replace slates for privileged people.
 * __Founder__: Garbi Elizondo, founder of Eliza.
@@ -20,6 +20,7 @@
 * __Sanctuary__: A headquarters for multiple temples. They also serve as Eliza-sponsored universities.
 * __Slate__: An external mobile computer.
 * __Temple__: A gathering place and headquarters for mandatory weekly meetings of local dunbars.
+* __Ypsoma__: A promotion to a higher rank within Eliza, from the Greek ýpsoma, meaning elevation.
 
 __NB__: A neighbourhood priest wears a taupe robe, but they should not be thought of as junior to ecclesicals. They return to taupe robes at the end of their careers.
 
@@ -29,7 +30,7 @@ __NB__: A neighbourhood priest wears a taupe robe, but they should not be though
 * Hello: ni hao
 * Teacher (for priests): laoshi
 * Yes: shi de
-* No: b�
+* No: bù
 * Do you understand / does this make sense?: Dong le ma
 
 
